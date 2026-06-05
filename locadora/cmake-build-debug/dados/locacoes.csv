@@ -1,0 +1,3 @@
+id,idCliente,idCarro,dataInicio,dataFimPrevista,dataFimReal,valorTotal,status
+1,3,7,1778344742,1778776742,0,1750,0
+2,2,4,1778344793,1778431193,1778344801,0,1

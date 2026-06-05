@@ -1,0 +1,3 @@
+"C:\Program Files\JetBrains\CLion 2025.3.2\bin\cmake\win\x64\bin\cmake.exe" -E rm -f CMakeFiles\testes_locadora.dir/objects.a
+C:\PROGRA~1\JETBRA~1\CLION2~1.2\bin\mingw\bin\ar.exe qc CMakeFiles\testes_locadora.dir/objects.a @CMakeFiles\testes_locadora.dir\objects1.rsp
+C:\PROGRA~1\JETBRA~1\CLION2~1.2\bin\mingw\bin\G__~1.EXE -g -Wl,--whole-archive CMakeFiles\testes_locadora.dir/objects.a -Wl,--no-whole-archive -o testes_locadora.exe -Wl,--out-implib,libtestes_locadora.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\testes_locadora.dir\linkLibs.rsp
