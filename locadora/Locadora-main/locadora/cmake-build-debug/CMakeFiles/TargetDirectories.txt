@@ -1,0 +1,5 @@
+E:/claudio/locadora/cmake-build-debug/CMakeFiles/locadora.dir
+E:/claudio/locadora/cmake-build-debug/CMakeFiles/testes_locadora.dir
+E:/claudio/locadora/cmake-build-debug/CMakeFiles/test.dir
+E:/claudio/locadora/cmake-build-debug/CMakeFiles/edit_cache.dir
+E:/claudio/locadora/cmake-build-debug/CMakeFiles/rebuild_cache.dir

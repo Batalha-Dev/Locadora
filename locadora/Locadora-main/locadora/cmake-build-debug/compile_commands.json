@@ -1,0 +1,8 @@
+[
+{
+  "directory": "E:/claudio/locadora/cmake-build-debug",
+  "command": "C:\\PROGRA~1\\JETBRA~1\\CLION2~1.2\\bin\\mingw\\bin\\G__~1.EXE -g -std=gnu++17 -fdiagnostics-color=always -o CMakeFiles\\locadora.dir\\main.cpp.obj -c E:\\claudio\\locadora\\main.cpp",
+  "file": "E:/claudio/locadora/main.cpp",
+  "output": "E:/claudio/locadora/cmake-build-debug/CMakeFiles/locadora.dir/main.cpp.obj"
+}
+]

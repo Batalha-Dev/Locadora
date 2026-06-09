@@ -1,0 +1,7 @@
+id,marca,modelo,placa,ano,categoriaId,diaria,status
+1,"Volkswagen","Gol","ABC-1234",2022,0,80,0
+2,"Chevrolet","Onix","DEF-5678",2023,0,80,0
+3,"Toyota","Corolla","GHI-9012",2021,1,120,0
+4,"Jeep","Renegade","JKL-3456",2023,2,180,0
+5,"BMW","320i","MNO-7890",2022,3,350,0
+6,"Ford","Ranger","PQR-1122",2023,4,160,0
